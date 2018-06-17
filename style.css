@@ -1,0 +1,63 @@
+html
+{
+    background: peachpuff;
+}
+body
+{
+    background: peachpuff;
+   font-family: 'Anton', sans-serif;
+    line-height: 1.5em;
+}
+header
+{
+    text-align: center;
+        background:url(http://www.thegranddragonladakh.com/wp-content/themes/grand-dragon/images/HotelExterior.jpg);
+    background-size: cover;
+    color: white;
+}
+.spacer
+{
+    height: 400px;
+}
+ul
+{
+    padding:10px;
+    background: rgba(255, 165, 0, 0.5);
+}
+li
+{
+    display: inline;
+    padding: 0px 30px 0px 30px;
+}
+a
+{
+    color: white;
+    text-decoration: none;
+}
+a:hover
+{
+    color: #afafaf;
+}
+.hotelname
+{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 50px;
+    line-height: 1.6em;
+    padding-top: 30px;
+    text-shadow: 5px 5px 20px black;
+}
+.contactusfor
+{
+    color: saddlebrown;
+   text-align: center;
+    font-size: 30px;
+}
+footer
+{
+    background: orange;
+    color: black;
+    font-size: 0.75em;
+    text-align: center;
+   
+}
